@@ -1,0 +1,50 @@
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.ServiceLayer.dll.config
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.ServiceLayer.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.ServiceLayer.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.DataLayer.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.DomainModels.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.ServiceContracts.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\EntityFramework.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.DataLayer.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.DataLayer.dll.config
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.DomainModels.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.DomainModels.dll.config
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.ServiceContracts.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\EntityFramework.xml
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.csprojAssemblyReference.cache
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.csproj.CopyComplete
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.RepositoryContracts.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.RepositoryContracts.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.RepositoryLayer.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.RepositoryLayer.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceLayer\bin\Debug\Company.RepositoryLayer.dll.config
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.ServiceLayer.dll.config
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.ServiceLayer.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.ServiceLayer.pdb
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.DataLayer.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.DomainModels.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.RepositoryContracts.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.RepositoryLayer.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.ServiceContracts.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\EntityFramework.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.DataLayer.pdb
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.DataLayer.dll.config
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.DomainModels.pdb
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.DomainModels.dll.config
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.RepositoryContracts.pdb
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.RepositoryLayer.pdb
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.RepositoryLayer.dll.config
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\Company.ServiceContracts.pdb
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\EntityFramework.xml
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.csprojAssemblyReference.cache
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.csproj.CopyComplete
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.dll
+C:\mvc\24.04. Repository Pattern\Company.ServiceLayer\obj\Debug\Company.ServiceLayer.pdb

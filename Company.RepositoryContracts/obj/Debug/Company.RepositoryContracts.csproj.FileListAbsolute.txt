@@ -1,0 +1,30 @@
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\Company.RepositoryContracts.dll
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\Company.RepositoryContracts.pdb
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\Company.DataLayer.dll
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\Company.DomainModels.dll
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\EntityFramework.dll
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\Company.DataLayer.pdb
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\Company.DataLayer.dll.config
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\Company.DomainModels.pdb
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\Company.DomainModels.dll.config
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\bin\Debug\EntityFramework.xml
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.csprojAssemblyReference.cache
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.csproj.CopyComplete
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.dll
+C:\mvc\EFDbFirstApproachExample\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.pdb
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\Company.RepositoryContracts.dll
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\Company.RepositoryContracts.pdb
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\Company.DataLayer.dll
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\Company.DomainModels.dll
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\EntityFramework.dll
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\Company.DataLayer.pdb
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\Company.DataLayer.dll.config
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\Company.DomainModels.pdb
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\Company.DomainModels.dll.config
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\bin\Debug\EntityFramework.xml
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.csprojAssemblyReference.cache
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.csproj.CopyComplete
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.dll
+C:\mvc\24.04. Repository Pattern\Company.RepositoryContracts\obj\Debug\Company.RepositoryContracts.pdb
